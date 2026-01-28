@@ -1,0 +1,14 @@
+## Interface: 120000
+## Interface-Retail: 120000
+## Interface-Classic: 11505
+## Interface-BCC: 20505
+## Title: |cff00ffffFPS & MS Monitor|r
+## Notes: All Clients Ready. Moderner Monitor mit Custom-GUI.
+## Author: Pytilix
+## Version: 12.04
+## X-License: All Rights Reserved
+## X-Copyright: Copyright (c) 2021-2026 Pytilix. All rights reserved.
+## SavedVariables: FPSMSMonitorDB
+## IconTexture: Interface\AddOns\FPS_MS_Monitor\logo\logo.tga
+
+FPS_MS_Monitor.lua
